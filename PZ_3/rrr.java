@@ -9,7 +9,6 @@ public class rrr {
             this.lastName = lastName;
         }
 
-
         public String getFirstName() {
             return firstName;
         }
